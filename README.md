@@ -1,5 +1,5 @@
 # Baozi Store - API REST
-Java 17 · Spring Boot 3 · Spring Data JPA · H2/MySQL
+Java 17 · Spring Boot 3 · Spring Data JPA · H2
 
 ## Como rodar
     mvn spring-boot:run
